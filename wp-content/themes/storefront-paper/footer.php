@@ -16,9 +16,9 @@
 		<div class="site-info">
 			Copyright © 2014 <br />
       <a href="?page_id=39" title="" rel="generator" title="About Kata">About Kata</a> | 
-			<a href="#" rel="designer" title="Store Location">Store Location </a> |
-			<a href="#" rel="designer" title="Testimonials">Testimonials </a>  |   
-			<a href="#" rel="designer" title="Blog">Blog </a>  |
+			<a href="?page_id=43" rel="designer" title="Store Location">Store Location </a> |
+			<a href="?page_id=45" rel="designer" title="Testimonials">Testimonials </a>  |   
+			<a href="?page_id=47" rel="designer" title="Blog">Blog </a>  |
 			<a href="#" rel="designer" title="Terms & Condition">Terms & Condition</a> |
 			<a href="#" rel="designer" title="Featured Magazine">Featured Magazine</a>
 		</div><!-- .site-info -->
